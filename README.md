@@ -2,8 +2,8 @@
 
 ## TO DO:
 
-- [] Make it deploy on Vercel
-- [] Scaffold basic UI
+- [x] Make it deploy on Vercel
+- [x] Scaffold basic UI
 - [] Setup db for Vercel(Vercel Postgres)
 - [] Add auth (/w clerk)
 - [] Error management (/w Sentry)
